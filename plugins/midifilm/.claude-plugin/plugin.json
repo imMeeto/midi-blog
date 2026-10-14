@@ -1,0 +1,10 @@
+{
+  "name": "midifilm",
+  "version": "1.1.0",
+  "description": "Личный бренд MIDI FILM: контекст Дмитрия Турбабина и 45 навыков для контента, маркетинга, аналитики, воронок, сайтов и автоматизации.",
+  "author": {
+    "name": "midi film",
+    "email": "midi.collab@gmail.com"
+  },
+  "keywords": ["midifilm", "brand", "content", "marketing"]
+}

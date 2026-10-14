@@ -1,0 +1,16 @@
+{
+  "name": "midifilm",
+  "description": "Маркетплейс MIDI FILM: плагин с контекстом бренда и навыками для контента.",
+  "owner": {
+    "name": "midi film",
+    "email": "midi.collab@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "midifilm",
+      "source": "./plugins/midifilm",
+      "description": "Контекст Дмитрия Турбабина и бренда MIDI FILM + 45 навыков content-producer.",
+      "version": "1.1.0"
+    }
+  ]
+}

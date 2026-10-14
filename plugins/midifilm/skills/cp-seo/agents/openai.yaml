@@ -1,0 +1,4 @@
+interface:
+  display_name: "Поиск: Яндекс и Google"
+  short_description: "Навык бренда MIDI FILM: cp-seo"
+  default_prompt: "Используй $cp-seo для моей задачи с брендом MIDI FILM."

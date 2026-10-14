@@ -1,0 +1,4 @@
+interface:
+  display_name: "Сайт технически"
+  short_description: "Навык бренда MIDI FILM: cp-web"
+  default_prompt: "Используй $cp-web для моей задачи с брендом MIDI FILM."

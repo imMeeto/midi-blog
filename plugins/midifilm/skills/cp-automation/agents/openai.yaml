@@ -1,0 +1,4 @@
+interface:
+  display_name: "Автоматизация процессов"
+  short_description: "Навык бренда MIDI FILM: cp-automation"
+  default_prompt: "Используй $cp-automation для моей задачи с брендом MIDI FILM."

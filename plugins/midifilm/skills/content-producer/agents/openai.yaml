@@ -1,0 +1,4 @@
+interface:
+  display_name: "Диспетчер"
+  short_description: "Навык бренда MIDI FILM: content-producer"
+  default_prompt: "Используй $content-producer для моей задачи с брендом MIDI FILM."

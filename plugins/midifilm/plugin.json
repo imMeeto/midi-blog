@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "email": "midi.collab@gmail.com",
+    "name": "midi film"
+  },
+  "description": "Личный бренд MIDI FILM: контекст Дмитрия Турбабина и 45 навыков для контента, маркетинга, аналитики, воронок, сайтов и автоматизации.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "brandColor": "#a04a4e",
+        "category": "Productivity",
+        "composerIcon": "./assets/icon.svg",
+        "defaultPrompt": [
+          "Подключи мой контекст MIDI FILM и используй его в этой задаче.",
+          "Напиши текст от моего лица с учётом голоса и правил MIDI FILM.",
+          "Расскажи, что ты знаешь обо мне, моём бренде, аудитории и предложениях."
+        ],
+        "developerName": "midi film",
+        "displayName": "MIDI FILM",
+        "logo": "./assets/icon.svg",
+        "longDescription": "Контекст Дмитрия Турбабина и бренда MIDI FILM вместе с 45 навыками content-producer. Сценарии, карусели, посты, контент-планы, аналитика, офферы, воронки, SEO, сайты и автоматизация. Каждый навык использует включённый профиль бренда; можно вызвать конкретный навык или диспетчер составных задач. Всего 46 навыков. Документы бренда — снимок от 05.08.2026, исходные методики сохраняют даты проверки. Автоматической синхронизации с локальными файлами нет.",
+        "shortDescription": "Контекст Дмитрия и MIDI FILM"
+      }
+    }
+  },
+  "name": "midifilm",
+  "version": "1.1.0"
+}

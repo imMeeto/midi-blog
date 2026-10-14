@@ -1,0 +1,4 @@
+interface:
+  display_name: "Рендер слайдов HTML → PNG"
+  short_description: "Навык бренда MIDI FILM: cp-carousel-render"
+  default_prompt: "Используй $cp-carousel-render для моей задачи с брендом MIDI FILM."

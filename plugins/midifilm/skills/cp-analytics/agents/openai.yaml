@@ -1,0 +1,4 @@
+interface:
+  display_name: "Разбор статистики одной площадки"
+  short_description: "Навык бренда MIDI FILM: cp-analytics"
+  default_prompt: "Используй $cp-analytics для моей задачи с брендом MIDI FILM."

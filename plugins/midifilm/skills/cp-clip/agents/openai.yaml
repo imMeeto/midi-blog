@@ -1,0 +1,4 @@
+interface:
+  display_name: "Нарезка длинного материала на короткие ролики"
+  short_description: "Навык бренда MIDI FILM: cp-clip"
+  default_prompt: "Используй $cp-clip для моей задачи с брендом MIDI FILM."

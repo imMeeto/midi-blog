@@ -1,0 +1,4 @@
+interface:
+  display_name: "Скоринг сценария до съёмки"
+  short_description: "Навык бренда MIDI FILM: cp-video-score"
+  default_prompt: "Используй $cp-video-score для моей задачи с брендом MIDI FILM."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Сценарий длинного видео"
+  short_description: "Навык бренда MIDI FILM: cp-script-long"
+  default_prompt: "Используй $cp-script-long для моей задачи с брендом MIDI FILM."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Правовой чек перед публикацией"
+  short_description: "Навык бренда MIDI FILM: cp-compliance"
+  default_prompt: "Используй $cp-compliance для моей задачи с брендом MIDI FILM."

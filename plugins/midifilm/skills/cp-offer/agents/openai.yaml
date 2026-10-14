@@ -1,0 +1,4 @@
+interface:
+  display_name: "Оффер и продающий текст"
+  short_description: "Навык бренда MIDI FILM: cp-offer"
+  default_prompt: "Используй $cp-offer для моей задачи с брендом MIDI FILM."

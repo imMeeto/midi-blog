@@ -1,0 +1,4 @@
+interface:
+  display_name: "Автоворонка в боте"
+  short_description: "Навык бренда MIDI FILM: cp-bot"
+  default_prompt: "Используй $cp-bot для моей задачи с брендом MIDI FILM."

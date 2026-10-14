@@ -1,0 +1,4 @@
+interface:
+  display_name: "Производственный календарь и ритм"
+  short_description: "Навык бренда MIDI FILM: cp-calendar"
+  default_prompt: "Используй $cp-calendar для моей задачи с брендом MIDI FILM."

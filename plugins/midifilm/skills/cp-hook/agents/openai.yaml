@@ -1,0 +1,4 @@
+interface:
+  display_name: "Генератор хуков"
+  short_description: "Навык бренда MIDI FILM: cp-hook"
+  default_prompt: "Используй $cp-hook для моей задачи с брендом MIDI FILM."

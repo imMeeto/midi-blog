@@ -1,0 +1,4 @@
+interface:
+  display_name: "Позиционирование человека"
+  short_description: "Навык бренда MIDI FILM: cp-personal-brand"
+  default_prompt: "Используй $cp-personal-brand для моей задачи с брендом MIDI FILM."

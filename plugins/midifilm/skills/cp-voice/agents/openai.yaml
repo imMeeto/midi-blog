@@ -1,0 +1,4 @@
+interface:
+  display_name: "Голос автора"
+  short_description: "Навык бренда MIDI FILM: cp-voice"
+  default_prompt: "Используй $cp-voice для моей задачи с брендом MIDI FILM."

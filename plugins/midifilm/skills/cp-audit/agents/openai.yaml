@@ -1,0 +1,4 @@
+interface:
+  display_name: "Аудит аккаунта"
+  short_description: "Навык бренда MIDI FILM: cp-audit"
+  default_prompt: "Используй $cp-audit для моей задачи с брендом MIDI FILM."

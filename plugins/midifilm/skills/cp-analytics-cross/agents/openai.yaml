@@ -1,0 +1,4 @@
+interface:
+  display_name: "Сводный отчёт по всем площадкам"
+  short_description: "Навык бренда MIDI FILM: cp-analytics-cross"
+  default_prompt: "Используй $cp-analytics-cross для моей задачи с брендом MIDI FILM."

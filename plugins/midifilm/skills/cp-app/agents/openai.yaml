@@ -1,0 +1,4 @@
+interface:
+  display_name: "Мобильное приложение"
+  short_description: "Навык бренда MIDI FILM: cp-app"
+  default_prompt: "Используй $cp-app для моей задачи с брендом MIDI FILM."

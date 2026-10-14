@@ -1,0 +1,4 @@
+interface:
+  display_name: "Сообщество, негатив, кризис и отзывы"
+  short_description: "Навык бренда MIDI FILM: cp-community"
+  default_prompt: "Используй $cp-community для моей задачи с брендом MIDI FILM."

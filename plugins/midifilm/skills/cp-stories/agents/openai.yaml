@@ -1,0 +1,4 @@
+interface:
+  display_name: "Истории и вертикальные серии"
+  short_description: "Навык бренда MIDI FILM: cp-stories"
+  default_prompt: "Используй $cp-stories для моей задачи с брендом MIDI FILM."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Генеративные картинки"
+  short_description: "Навык бренда MIDI FILM: cp-image-prompt"
+  default_prompt: "Используй $cp-image-prompt для моей задачи с брендом MIDI FILM."

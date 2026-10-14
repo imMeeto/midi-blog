@@ -1,0 +1,4 @@
+interface:
+  display_name: "Контент-план"
+  short_description: "Навык бренда MIDI FILM: cp-content-plan"
+  default_prompt: "Используй $cp-content-plan для моей задачи с брендом MIDI FILM."

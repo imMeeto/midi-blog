@@ -1,0 +1,4 @@
+interface:
+  display_name: "Подписи к постам"
+  short_description: "Навык бренда MIDI FILM: cp-caption"
+  default_prompt: "Используй $cp-caption для моей задачи с брендом MIDI FILM."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Тренды и форматы"
+  short_description: "Навык бренда MIDI FILM: cp-trends"
+  default_prompt: "Используй $cp-trends для моей задачи с брендом MIDI FILM."

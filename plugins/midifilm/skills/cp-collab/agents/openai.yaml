@@ -1,0 +1,4 @@
+interface:
+  display_name: "Интеграции, посевы, работа с блогерами"
+  short_description: "Навык бренда MIDI FILM: cp-collab"
+  default_prompt: "Используй $cp-collab для моей задачи с брендом MIDI FILM."

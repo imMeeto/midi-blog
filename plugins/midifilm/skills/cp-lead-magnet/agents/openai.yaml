@@ -1,0 +1,4 @@
+interface:
+  display_name: "Лид-магниты"
+  short_description: "Навык бренда MIDI FILM: cp-lead-magnet"
+  default_prompt: "Используй $cp-lead-magnet для моей задачи с брендом MIDI FILM."

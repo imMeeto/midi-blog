@@ -1,0 +1,4 @@
+interface:
+  display_name: "Обложки и превью"
+  short_description: "Навык бренда MIDI FILM: cp-cover"
+  default_prompt: "Используй $cp-cover для моей задачи с брендом MIDI FILM."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Контекст MIDI FILM"
+  short_description: "Дмитрий Турбабин: бренд, голос и аудитория"
+  default_prompt: "Используй $midifilm-context, чтобы подключить мой контекст MIDI FILM к текущей задаче."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Рассылки и прогревы"
+  short_description: "Навык бренда MIDI FILM: cp-email"
+  default_prompt: "Используй $cp-email для моей задачи с брендом MIDI FILM."

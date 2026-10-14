@@ -1,0 +1,4 @@
+interface:
+  display_name: "Контент для Telegram"
+  short_description: "Навык бренда MIDI FILM: cp-telegram"
+  default_prompt: "Используй $cp-telegram для моей задачи с брендом MIDI FILM."

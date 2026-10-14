@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "midifilm": {
+      "source": {
+        "source": "directory",
+        "path": "."
+      }
+    }
+  },
+  "enabledPlugins": {
+    "midifilm@midifilm": true
+  }
+}

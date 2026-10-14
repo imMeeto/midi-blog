@@ -1,0 +1,4 @@
+interface:
+  display_name: "Контент для Дзена"
+  short_description: "Навык бренда MIDI FILM: cp-dzen"
+  default_prompt: "Используй $cp-dzen для моей задачи с брендом MIDI FILM."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Карусели и галереи"
+  short_description: "Навык бренда MIDI FILM: cp-carousel"
+  default_prompt: "Используй $cp-carousel для моей задачи с брендом MIDI FILM."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Воронка и конверсии"
+  short_description: "Навык бренда MIDI FILM: cp-funnel"
+  default_prompt: "Используй $cp-funnel для моей задачи с брендом MIDI FILM."

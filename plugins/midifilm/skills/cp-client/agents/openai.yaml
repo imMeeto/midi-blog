@@ -1,0 +1,4 @@
+interface:
+  display_name: "Работа с клиентским брендом"
+  short_description: "Навык бренда MIDI FILM: cp-client"
+  default_prompt: "Используй $cp-client для моей задачи с брендом MIDI FILM."

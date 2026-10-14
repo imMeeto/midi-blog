@@ -1,0 +1,4 @@
+interface:
+  display_name: "Аватары и распаковка аудитории"
+  short_description: "Навык бренда MIDI FILM: cp-audience"
+  default_prompt: "Используй $cp-audience для моей задачи с брендом MIDI FILM."

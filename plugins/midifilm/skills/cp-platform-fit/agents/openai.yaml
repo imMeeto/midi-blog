@@ -1,0 +1,4 @@
+interface:
+  display_name: "Адаптация единицы контента под площадки"
+  short_description: "Навык бренда MIDI FILM: cp-platform-fit"
+  default_prompt: "Используй $cp-platform-fit для моей задачи с брендом MIDI FILM."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Профиль бренда"
+  short_description: "Навык бренда MIDI FILM: cp-brand-setup"
+  default_prompt: "Используй $cp-brand-setup для моей задачи с брендом MIDI FILM."

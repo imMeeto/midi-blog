@@ -1,0 +1,4 @@
+interface:
+  display_name: "Снятие машинных следов"
+  short_description: "Навык бренда MIDI FILM: cp-humanizer"
+  default_prompt: "Используй $cp-humanizer для моей задачи с брендом MIDI FILM."

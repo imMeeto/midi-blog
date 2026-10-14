@@ -1,0 +1,4 @@
+interface:
+  display_name: "Сценарий короткого вертикального видео"
+  short_description: "Навык бренда MIDI FILM: cp-script-short"
+  default_prompt: "Используй $cp-script-short для моей задачи с брендом MIDI FILM."

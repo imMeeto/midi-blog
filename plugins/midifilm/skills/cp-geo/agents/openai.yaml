@@ -1,0 +1,4 @@
+interface:
+  display_name: "Видимость в ответах нейросетей"
+  short_description: "Навык бренда MIDI FILM: cp-geo"
+  default_prompt: "Используй $cp-geo для моей задачи с брендом MIDI FILM."

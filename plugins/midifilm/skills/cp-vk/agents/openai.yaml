@@ -1,0 +1,4 @@
+interface:
+  display_name: "Контент для ВКонтакте"
+  short_description: "Навык бренда MIDI FILM: cp-vk"
+  default_prompt: "Используй $cp-vk для моей задачи с брендом MIDI FILM."

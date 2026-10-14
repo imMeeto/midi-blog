@@ -1,0 +1,4 @@
+interface:
+  display_name: "Съёмка, свет, звук, монтаж и субтитры"
+  short_description: "Навык бренда MIDI FILM: cp-production"
+  default_prompt: "Используй $cp-production для моей задачи с брендом MIDI FILM."

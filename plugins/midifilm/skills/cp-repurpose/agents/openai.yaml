@@ -1,0 +1,4 @@
+interface:
+  display_name: "Переупаковка"
+  short_description: "Навык бренда MIDI FILM: cp-repurpose"
+  default_prompt: "Используй $cp-repurpose для моей задачи с брендом MIDI FILM."

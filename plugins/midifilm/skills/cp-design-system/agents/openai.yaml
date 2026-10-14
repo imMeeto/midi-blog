@@ -1,0 +1,4 @@
+interface:
+  display_name: "Тема бренда"
+  short_description: "Навык бренда MIDI FILM: cp-design-system"
+  default_prompt: "Используй $cp-design-system для моей задачи с брендом MIDI FILM."
